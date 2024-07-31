@@ -11,9 +11,9 @@ int main()
 
     cout<<"total marks is"<<total<<endl;
 
-    per=(total*100)/500;
-
+    per=(total*100)/50
     cout<<"percantage="<<per;
+    sjdbvkjdfvbkjdfvbkjdfvbkjdfbvkjdfvb
 
     return 0;
 
